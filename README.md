@@ -17,11 +17,6 @@ Download the latest installer for your system from the **[Releases](https://gith
 
 ## Quick Setup Notes
 
-### Windows
-If Windows SmartScreen displays *"Windows protected your PC"*:
-1. Click **More info**.
-2. Click **Run anyway** to launch the installer.
-
 ### macOS
 If macOS shows an unverified developer or damaged warning on first open:
 1. Open **System Settings** → **Privacy & Security**.
@@ -31,6 +26,12 @@ If macOS shows an unverified developer or damaged warning on first open:
 ### Linux
 * **Debian / Ubuntu:** Double-click the `.deb` file or run `sudo dpkg -i datalens_0.1.0_amd64.deb`.
 * **AppImage:** Right-click the `.AppImage` → **Properties** → **Permissions** → enable **Allow executing file as program**, then double-click to launch.
+
+### Windows
+If Windows SmartScreen displays *"Windows protected your PC"*:
+1. Click **More info**.
+2. Click **Run anyway** to launch the installer.
+
 
 ---
 
